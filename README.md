@@ -20,7 +20,7 @@ You can find the description of the work, the implementations and the benchmark 
 ## Tech stack
 * Hadoop (MapReduce)
 * MongoDB (MapReduce)
-* PySpark
+* PySpark (MapReduce)
 
 ## Structure
 
